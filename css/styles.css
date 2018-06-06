@@ -47,6 +47,7 @@ a {
 
 .avatar {
     vertical-align: middle;
+    width: 50%;
     border-radius: 50%;
 }
 
@@ -60,4 +61,11 @@ a {
         padding-left: 40px;
     }
 
+    .avatar {
+        vertical-align: middle;
+        width: 30%;
+        border-radius: 50%;
+    }
+  
 }
+
