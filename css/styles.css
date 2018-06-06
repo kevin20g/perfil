@@ -45,6 +45,11 @@ a {
     margin-top: 40px;
 }
 
+.avatar {
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
 @media (min-width: 768px) {
     .container {
         -webkit-flex-direction: row;
@@ -54,4 +59,5 @@ a {
     .description {
         padding-left: 40px;
     }
+
 }
